@@ -1,0 +1,230 @@
+{
+  "name": "Yunus Thai",
+  "headerTaglineOne": "About Me",
+  "headerTaglineTwo": "I’m a Thai-Vietnamese Canadian whose goal is to explore the world of creativity.",
+  "headerTaglineThree": "I particularly enjoy street and long-exposure photography, along with other mediums including pottery, gouache, watercolour and digital art.",
+  "headerTaglineFour": "I strive to branch out to other forms of creative expression such as 3D modelling, graphic design, and cinematography.",
+  "studentNumber": "9012558",
+  "email": "omitted@gmail.com",
+  "phone": "123-456-7890",
+  "submissionDate": "2024-03-01",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "",
+      "img": "Socials/instagram.png",
+      "link": "https://www.instagram.com/y.thai_art/"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "James Bond Island",
+      "subtitle": "Watercolour<br>9.5 x 16.7 cm",
+      "description": "The fresh Thai air,<br> the smell of the rainforest,<br> the sounds of the waves,<br> and the sights of Koh Phi Phi,<br> better known as James Bond Island.<br><br>Painting this was a trip through memory lane, reminiscing my experience in my mother’s home country of Thailand.",
+      "Reflection": "Given the chaotic and somewhat unpredictable nature of watercolour, I found it difficult to illustrate the concepts and scenes with my relatively low experience at the time of painting. Watercolour proved to be a fairly difficult medium to master and put into its full potential, however, the process was simple but tedious. I knew that a good watercolour painting should have quality layering, so I had with me a hair dryer and opened my windows so the paint would dry quickly. This sped up the process of painting multiple layers quite a bit.<br><br>I viewed this painting like a test. Seeing how far I've come to just starting this medium roughly 8 months ago, to drawing a full scene with water reflections, proper colour usage, clouds, shadows, and efficient layering. Overall, I'm very proud of the result and I look forward to seeing what kind of style I'll acquire as I progress with my watercolour paintings.",
+      "imageSrc": "/images/James Bond Island/James Bond Island-3_blurred.jpg",
+      "imageSrcSet": [
+        "/images/James Bond Island/James Bond Island-1_blurred.jpg",
+        "/images/James Bond Island/James Bond Island-2_blurred.jpg",
+        "/images/James Bond Island/James Bond Island-3_blurred.jpg",
+        "/images/James Bond Island/James Bond Island-4_blurred.jpg"
+      ],
+      "Date": "January 2024"
+    },
+    {
+      "id": "3",
+      "title": "Call of the Night",
+      "subtitle": "Watercolour<br>9 x 6.8 cm",
+      "description": "A study of an underpass in the night. This painting challenged my ability to glaze and illustrate dark spaces and scenery.",
+      "Reflection": "This painting was difficult in that it also tested my ability to glaze and layer my paint when using gouache. The process was quite long as I used pretty wet washes when painting the layers and having to wait was getting tedious, but I knew it was worth it.<br><br>I'm actually quite impressed with the outcome however I would probably use a more saturated green for the background if I had to make any improvements on it.",
+      "imageSrc": "/images/Call of the Night/Call of the Night-4_blurred.jpg",
+      "imageSrcSet": [
+        "/images/Call of the Night/Call of the Night-1_blurred.jpg",
+        "/images/Call of the Night/Call of the Night-2_blurred.jpg",
+        "/images/Call of the Night/Call of the Night-3_blurred.jpg",
+        "/images/Call of the Night/Call of the Night-4_blurred.jpg"
+      ],
+      "Date": "January 2024"
+    },
+    {
+      "id": "4",
+      "title": "Fika",
+      "subtitle": "Still-life Drawing<br>30 x 23 cm",
+      "description": "Grab a seat, have a coffee, a book, and enjoy a nice coffee break. This still-life drawing aims to convey the relaxing moment of Fika, meaning, \"To have a coffee break\" in Swedish.",
+      "Reflection": "This piece required a few iterations before arriving at the final product. I experimented with various perspectives and levels of line weight. I initially kept the three objects in empty space, but I instead chose to tell a story by adding background elements such as the table, timber wall, and a large house plant.",
+      "imageSrc": "/images/Fika/Fika-1_blurred.jpg",
+      "imageSrcSet": [
+        "/images/Fika/Fika-1_blurred.jpg",
+        "/images/Fika/Fika-2_blurred.jpg",
+        "/images/Fika/Fika-3_blurred.jpg"
+      ],
+      "Date": "February 2024"
+    },
+    {
+      "id": "5",
+      "title": "Elevated Abode",
+      "subtitle": "Interior Design Concept<br>10.4 x 18.6 cm",
+      "description": "Inspired by a Japanese apartment, this free-hand drawing of a small interior, playing with the concept of loft bedding and tiny apartments.",
+      "Reflection": "This piece was inspired by the Japanese tiny apartment style. This took many iterations and sketches, however, I finally settled on a perspective to my liking. I used the thin weight of the paper to roughly follow my previous sketches, this way I'm able to replicate the same perspective as my previous drawings.<br><br>Overall, I'm very proud of the result. I would've added more colour to the illustration, but I did lack materials, so i used a grey highlighter to capture the core light values.",
+      "imageSrc": "/images/Elevated Abode/Elevated Abode-2_blurred.jpg",
+      "imageSrcSet": [
+        "/images/Elevated Abode/Elevated Abode-2_blurred.jpg",
+        "/images/Elevated Abode/Elevated Abode-3_blurred.jpg",
+        "/images/Elevated Abode/Elevated Abode-5_blurred.jpg",
+        "/images/Elevated Abode/Elevated Abode-4_blurred.jpg",
+        "/images/Elevated Abode/Elevated Abode-1_blurred.jpg"
+      ],
+      "Date": "February 2024"
+    },
+    {
+      "id": "6",
+      "title": "New Dawn City",
+      "subtitle": "Minecraft Creative Server",
+      "description": "A five-year long creative project beginning in 2019, this city is one of many others in this server. It served as an impactful outlet for creativity, allowing me to experiment, design, and create with my imagination.",
+      "Reflection": "This project was a group project with my friends. We had finished the main objective of the game and wanted to keep playing, so we worked on building our cities. As we played in the server over the years we added another city, suburban neighborhoods, skyscrapers, a working highway and much more.<br><br>There was no pressure on us and it was simply an outlet for creativity. To this day I'm still very proud of it and I hope to to find time to keep adding on to it along with my friends. This project will forever be a core memory in my life.",
+      "imageSrc": "/images/Minecraft Server/Minecraft Server-1_blurred.png",
+      "imageSrcSet": [
+        "/images/Minecraft Server/Minecraft Server-1_blurred.png",
+        "/images/Minecraft Server/Minecraft Server-6_blurred.png",
+        "/images/Minecraft Server/Minecraft Server-2_blurred.png",
+        "/images/Minecraft Server/Minecraft Server-3_blurred.png",
+        "/images/Minecraft Server/Minecraft Server-4_blurred.png",
+        "/images/Minecraft Server/Minecraft Server-5_blurred.png",
+        "/images/Minecraft Server/Minecraft Server-8_blurred.png",
+        "/images/Minecraft Server/Minecraft Server-9_blurred.png",
+        "/images/Minecraft Server/Minecraft Server-7_blurred.png"
+      ],
+      "Date": "2019"
+    },
+    {
+      "id": "7",
+      "title": "Crashing Waves",
+      "subtitle": "Paper Sculpture",
+      "description": "I enjoyed the aesthetic of organic and dynamic pieces. And so I aimed to create a piece that was fluid and portrayed movement.<br><br>During the summer, I often spent time with my family at the beach. With my liking of the outdoors, it felt natural to create a piece that depicts the large and chaotic waves that I would often play in.",
+      "Reflection": "A key factor for this piece was that it had personal value. I did not want to create a piece that was simply aesthetic.<br><br>The process was very instinctual and intrapersonal and at the time I wasn't used to such methodologies, however, I still believe that the outcome had far exceeded my expectations and I do enjoy the aesthetic of the wave-like form.",
+      "imageSrc": "/images/Crashing Waves/Crashing Waves-4_blurred.jpg",
+      "imageSrcSet": [
+        "/images/Crashing Waves/Crashing Waves-6_blurred.jpg",
+        "/images/Crashing Waves/Crashing Waves-4_blurred.jpg",
+        "/images/Crashing Waves/Crashing Waves-1_blurred.jpg",
+        "/images/Crashing Waves/Crashing Waves-7_blurred.jpg",
+        "/images/Crashing Waves/Crashing Waves-5_blurred.jpg"
+      ],
+      "Date": "Janunary 2024"
+    },
+
+    {
+      "id": "8",
+      "title": "Coffee Essntls (WIP)",
+      "subtitle": "Ceramic",
+      "description": "Two pieces from an upcoming coffee set. Although these pieces were executed in January, the larger project has been in drafts since early December.<br><br>The goal for the design of these pieces is to create a warm and cozy atmosphere using warmer coloured glazes to accompany the grey coloured ceramic.",
+      "Reflection": "Given this is still a work in progress, I don't have much to reflect upon this piece. Though, I will say that this is the largest project that I'm currently still working on. I've put a large amount of planning and effort put into this project and I look forward to the outcome in the summer.",
+      "imageSrc": "/images/Coffee Essntls/Coffee Essntls-4_blurred.jpg",
+      "imageSrcSet": [
+        "/images/Coffee Essntls/Coffee Essntls-4_blurred.jpg",
+        "/images/Coffee Essntls/Coffee Essntls-1_blurred.jpg",
+        "/images/Coffee Essntls/Coffee Essntls-2_blurred.jpg",
+        "/images/Coffee Essntls/Coffee Essntls-3_blurred.jpg"
+      ],
+      "Date": "January 2024"
+    },
+    {
+      "id": "9",
+      "title": "Illuminate",
+      "subtitle": "Long Exposure Photography",
+      "description": "A series of long-exposure photography photos captured at 11:00 in the night. We can achieve a daylight effect using only the moonlight and roughly 8 minutes of exposure.<br><br>The last photo is a result of a moving car revealing the Big Dipper constellation in the night sky.",
+      "Reflection": "I was heavily inspired by the British Photographer, Darren Almond, and his book called, \"Full Moon\". In it are photos taken during the night of a full moon, and using long exposures to make the moonlight seem like day but with an eerie fog. I wanted to add my own touch to this style and I noticed that most if not all the photos featured in Full Moon had no sign of man-made structures and the photos were taken while hiking in the wild. Thus, I looked towards rural areas, trying to capture human life during the night.<br><br>Though, I did face the same challenge that Darren encountered, and that was limited time. The pictures had to be taken on nights when the moon was full, bright, and clear enough that it could shine light in the area. Fortunately, the weather was clear and we could catch our opportunity.<br><br>However, if I could go back and fix one thing, I would first travel to the area during the day and rehearse the focus and the angles. Although the lack of focus adds its own character, I would've preferred to work in the dark, knowing what settings I should use.",
+      "imageSrc": "/images/Long Exposure Photography/Long Exposure Photography-3_blurred.jpg",
+      "imageSrcSet": [
+        "/images/Long Exposure Photography/Long Exposure Photography-3_blurred.jpg",
+        "/images/Long Exposure Photography/Long Exposure Photography-2_blurred.jpg",
+        "/images/Long Exposure Photography/Long Exposure Photography-1_blurred.jpg",
+        "/images/Long Exposure Photography/Long Exposure Photography-4_blurred.jpg"
+      ],
+      "Date": "July 2023"
+    },
+    {
+      "id": "10",
+      "title": "Midnight Dew",
+      "subtitle": "Street Photography",
+      "description": "Using perspective and film-like photography to create a liminal atmosphere. Creating a sense of loneliness and emptiness within the normally crowded University of Waterloo.",
+      "Reflection": "As someone who enjoys street photography, I wanted to see what kind of story I could write on this foggy night, and so I set out and took a very long stroll. Something I love about street photography, is the \"raw emotion\" from each photo.<br><br>Being alone in such a \"liminal\" area within the foggy night, brought upon a lonely and empty feeling that I wanted to capture. My mindset during the street photography session was to go by instinct. However, the spontaneity of this art form made it difficult as you can't easily plan the situations around you. At the end of the night, I was very proud of the photos and had a lot of favorites. It was a very memorable night for me to capture the deserted University of Waterloo.",
+      "imageSrc": "/images/Uwaterloo Orange/Uwaterloo Orange-2c_blurred.jpg",
+      "imageSrcSet": [
+        "/images/Uwaterloo Orange/Uwaterloo Orange-2c_blurred.jpg",
+        "/images/Uwaterloo Orange/Uwaterloo Orange-4_blurred.jpg",
+        "/images/Uwaterloo Orange/Uwaterloo Orange-6c_blurred.jpg",
+        "/images/Uwaterloo Orange/Uwaterloo Orange-8_blurred.jpg",
+        "/images/Uwaterloo Green/Uwaterloo Green-2_blurred.jpg",
+        "/images/Uwaterloo Green/Uwaterloo Green-3_blurred.jpg",
+        "/images/Uwaterloo Green/Uwaterloo Green-4_blurred.jpg",
+        "/images/Uwaterloo Green/Uwaterloo Green-9_blurred.jpg"
+      ],
+      "Date": "December 2023"
+    },
+    {
+      "id": "11",
+      "title": "St. Jacobs Summer",
+      "subtitle": "Street Photography",
+      "description": "Capturing the warmth of summer in the small and peaceful village of St. Jacobs. Many childhood memories were held here I would play tennis in the park, footbathe in the river, walk around the town centre, and hike through the Health Valley Trail.",
+      "Reflection": "St Jacob's Village is a memorable place for me as we would go there very often as kids. I still make the drive there since it's so peaceful and nearby. I wanted to capture the beauty of St Jacobs during the summer, so some friends and I walked around the village and hiked through the Health Valley Trail.<br><br>My favorite photo is the picture of a father and his two sons fishing on the side of the Conestogo River, I knew the first thing that an experience like that is sure to be a memorable childhood memory.",
+      "imageSrc": "/images/St Jacobs Summer/St Jacobs Summer-7_blurred.jpg",
+      "imageSrcSet": [
+        "/images/St Jacobs Summer/St Jacobs Summer-7_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-8_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-4_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-14_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-12_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-13_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-16_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-3_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-9_blurred.jpg",
+        "/images/St Jacobs Summer/St Jacobs Summer-6_blurred.jpg"
+      ],
+      "Date": "Summer 2023"
+    }
+  ],
+  "written": [
+    {
+      "id": "101",
+      "title": "Why I am Interested in Interior Design",
+      "text": "For most of my life, I have always admired art and design, but it wasn’t until my senior year of high school that I chose to pursue it as my lifelong career. I chose this program specifically because I want to paint my identity and use interior design as my canvas, no longer fantasizing about my ideal lifestyle. I hope I can paint for you a clear picture of how my journey through design and architecture began.<br>When I was younger, I used to view challenges negatively, holding a fixed mindset. But over time, I’ve grown to appreciate challenges as stepping stones to success. At times I would fail and become disappointed with myself for not being “good enough”. From this experience, I learned a crucial lesson: Aim for progression, not perfection. Many times I’ve let success get to my head and failure get to my heart. However, with this new shift in perspective, I have come to understand that the pain I receive from failure is far more beneficial as it’s allowed me to be complacent and modest in my personality and work ethic. I’ve since matured into a growth mindset, viewing my failures and challenges as building blocks to success.<br>A few years ago, we renovated and re-floored our home, so we took this opportunity to redecorate our interiors. We would often travel to IKEA as we were deciding how we would decorate our rooms. I vividly remember sitting down on my desk with my dotted notebook and measuring every corner of my room with a tape measure to make sure the furniture I wanted would fit the intentions of my design. It is difficult to explain with words how I felt as I designed my room, but the experience of sketching and designing with an endless number of creative opportunities within a set number of restrictions, brought upon a new passion for me to strive for. After the renovation, I learned that doing something you love doesn’t mean you will never work a day in your life, to me, it means that I’m willing to work hard for it because it’s something I’m passionate about and want to excel in that field. It was then that I finally understood what I wanted to pursue in the future.<br>Although I’ve long since admired the creative field, I’m still relatively new to the environment. I’m ready to embrace the countless challenges and problems I may face in the future, and I hope to learn from them and gain new experiences. A long-term goal of mine is to accumulate experience and carve into the ideal version of myself through design and architecture. With my experience with time management and having a good work ethic, I believe in myself to be able to overcome the obstacles I’ll inevitably receive. I hope to seek greater opportunities for honing my technical skills and creative process in a good learning environment that allows me to grow, both as a person and as a designer."
+    }
+  ],
+  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer, and maker.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": [
+          "Worked on the frontend of a React application",
+          "Worked on the frontend of a React application"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "March 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": ["Worked on the frontend of a React application"]
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
